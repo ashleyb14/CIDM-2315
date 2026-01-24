@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        // The code for Homework1
         float x = 2.5f;
         float y = 3.3f;
         float z = 4*x*x + 3*y;
@@ -11,3 +12,4 @@ class Program
         Console.WriteLine($"The value of Z is: {z}");
     }
 }
+
