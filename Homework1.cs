@@ -5,11 +5,12 @@ class Program
     static void Main(string[] args)
     {
         // The code for Homework1
-        float x = 2.5f;
-        float y = 3.3f;
-        float z = 4*x*x + 3*y;
+        double x = 2.5;
+        double y = 3.3;
+        double z = 4*x*x + 3*y;
         Console.WriteLine($"x = {x}, y = {y}");
         Console.WriteLine($"The value of Z is: {z}");
     }
 }
+
 
