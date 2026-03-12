@@ -16,3 +16,6 @@
 
 3/2/2026:
 - Upload the Homework6.cs file
+
+3/12/2026
+- Upload the Homework7.cs file
